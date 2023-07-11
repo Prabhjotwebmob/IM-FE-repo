@@ -3,7 +3,7 @@ import { RouterModule, Routes } from '@angular/router';
 import { RepoComponent } from './repo/repo.component';
 
 const routes: Routes = [{
-  path: '',
+  path: '**',
   component: RepoComponent
 }];
 
