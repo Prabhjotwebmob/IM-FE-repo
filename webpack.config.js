@@ -28,7 +28,7 @@ module.exports = new withModuleFederationPlugin({
 //       name: 'repo',
 
 //       exposes: {
-//         './Module': './src/app/IM-FE-repo/IM-FE-repo.module.ts',
+//         './Module': './src/app/repo/repo.module.ts',
 //       },
 
 //       shared: {

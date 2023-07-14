@@ -1,10 +1,10 @@
 {
-  "name": "IM-FE-repo",
+  "name": "repo",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
-    "build": "ng build --base-href='/IM-FE-repo/'",
+    "build": "ng build --base-href='/repo/'",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
     "run:all": "node node_modules/@angular-architects/module-federation/src/server/mf-dev-server.js"
